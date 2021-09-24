@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StructGenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\StructGenerator.Test\\StructGenerator.Test.csproj"
+    }
+  }
+}

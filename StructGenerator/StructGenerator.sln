@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructGenerator", "StructGenerator\StructGenerator.csproj", "{83663D44-5DD1-44D0-9930-5B6A5C84EE8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructGenerator.Test", "StructGenerator.Test\StructGenerator.Test.csproj", "{723CEDFE-B51F-44B7-9497-A20AAF217688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83663D44-5DD1-44D0-9930-5B6A5C84EE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83663D44-5DD1-44D0-9930-5B6A5C84EE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83663D44-5DD1-44D0-9930-5B6A5C84EE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83663D44-5DD1-44D0-9930-5B6A5C84EE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723CEDFE-B51F-44B7-9497-A20AAF217688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723CEDFE-B51F-44B7-9497-A20AAF217688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723CEDFE-B51F-44B7-9497-A20AAF217688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723CEDFE-B51F-44B7-9497-A20AAF217688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF51D4B1-B57B-43FD-B7A6-1EB88F8EB970}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "INPCGen": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\AutoNotifyGen\\AutoNotifyGen.csproj"
+    }
+  }
+}

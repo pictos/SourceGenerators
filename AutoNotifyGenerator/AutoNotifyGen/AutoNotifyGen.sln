@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoNotifyGen", "AutoNotifyGen\AutoNotifyGen.csproj", "{FD73E492-091A-48F8-A362-9AA163B4B790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INPCGen", "INPCGen\INPCGen.csproj", "{5D0BF7E8-A904-43AC-9A8C-17F77957A398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD73E492-091A-48F8-A362-9AA163B4B790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD73E492-091A-48F8-A362-9AA163B4B790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD73E492-091A-48F8-A362-9AA163B4B790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD73E492-091A-48F8-A362-9AA163B4B790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0BF7E8-A904-43AC-9A8C-17F77957A398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0BF7E8-A904-43AC-9A8C-17F77957A398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0BF7E8-A904-43AC-9A8C-17F77957A398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0BF7E8-A904-43AC-9A8C-17F77957A398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA833C3-B1A0-486C-AA41-C47A01C022A4}
+	EndGlobalSection
+EndGlobal

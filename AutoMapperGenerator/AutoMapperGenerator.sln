@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperGenerator", "AutoMapperGenerator\AutoMapperGenerator.csproj", "{DF7D99B3-97B9-47E3-9FD8-4FC2D0C9E3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperGenerator.Test", "AutoMapperGenerator.Test\AutoMapperGenerator.Test.csproj", "{89FF6FBD-9BC7-4CC9-B936-C5EA8B1C5C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7D99B3-97B9-47E3-9FD8-4FC2D0C9E3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7D99B3-97B9-47E3-9FD8-4FC2D0C9E3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7D99B3-97B9-47E3-9FD8-4FC2D0C9E3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7D99B3-97B9-47E3-9FD8-4FC2D0C9E3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FF6FBD-9BC7-4CC9-B936-C5EA8B1C5C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FF6FBD-9BC7-4CC9-B936-C5EA8B1C5C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FF6FBD-9BC7-4CC9-B936-C5EA8B1C5C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FF6FBD-9BC7-4CC9-B936-C5EA8B1C5C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8604631-09C4-458C-873E-DD765089706A}
+	EndGlobalSection
+EndGlobal

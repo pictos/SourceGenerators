@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoMapperGenerator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\AutoMapperGenerator.Test\\AutoMapperGenerator.Test.csproj"
+    }
+  }
+}

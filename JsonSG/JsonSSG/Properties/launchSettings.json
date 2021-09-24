@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonSSG": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\JsonSG\\JsonSG.csproj"
+    }
+  }
+}
